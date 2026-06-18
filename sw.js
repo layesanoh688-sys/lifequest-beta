@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lifequest-beta-v9';
+const CACHE_NAME = 'lifequest-beta-v10';
 const urlsToCache = [
   './',
   './index.html',
